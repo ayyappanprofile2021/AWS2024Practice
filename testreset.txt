@@ -1,1 +1,2 @@
 This is for testing the git reset.
+It is tested for polling SCM.
